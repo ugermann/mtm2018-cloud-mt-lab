@@ -20,4 +20,10 @@ Scalable MT in the Cloud with Marian
   ```
   git clone https://github.com/ugermann/mtm2018-cloud-mt-lab
   ```
+
+- Unpack Data
+  ```
+  tar xvzf mtm18-data.tgz
+  ```
   
+
