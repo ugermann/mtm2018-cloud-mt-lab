@@ -32,3 +32,15 @@ Scalable MT in the Cloud with Marian
   rmdir mtm18
   ```
   
+- Build the Marian Docker image:
+  ```
+  docker build -t marian docker/marian
+  ```
+  
+- Fire everyhing up with docker-compose
+  ```
+  cd docker
+  docker-compose up
+  ```
+  
+  
