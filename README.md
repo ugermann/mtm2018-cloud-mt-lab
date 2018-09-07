@@ -26,4 +26,9 @@ Scalable MT in the Cloud with Marian
   tar xvzf mtm18-data.tgz
   ```
   
-
+- Move everything from mtm18 to docker/marian
+  ```
+  mv mtm18/* docker/marian
+  rmdir mtm18
+  ```
+  
